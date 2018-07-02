@@ -1,4 +1,4 @@
-# fifa-standings-app
+# FIFA World Cup 2018 standings - app
 A web application to view the current standings of the FIFA World Cup 2018 games. The app paginates over all the groups displaying the relevant information for each team under 8 groups.
 
 # Getting Started
