@@ -24,7 +24,7 @@ Ref: https://www.npmjs.com/package/redux-thunk
 Ref: https://www.npmjs.com/package/whatwg-fetch
 
 # Running the app
-Start by navigating to the current project folder 'fifa-standings-app'
+Start by navigating to the current project folder 'FIFA-World-Cup-app'
 Then type:
 npm start
 From the browser navigate to http://localhost:3000/ to see the app in action.
