@@ -18,6 +18,10 @@ Ref: https://github.com/facebook/create-react-app
 Ref: https://www.npmjs.com/package/redux
 3.  Install React Redux:
 Ref: https://www.npmjs.com/package/react-redux
+4. Install Redux thunk:
+Ref: https://www.npmjs.com/package/redux-thunk
+5. Install fetch:
+Ref: https://www.npmjs.com/package/whatwg-fetch
 
 # Running the app
 Start by navigating to the current project folder 'fifa-standings-app'
