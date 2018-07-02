@@ -6,10 +6,8 @@ class GroupTable extends Component {
     return (
         <div className="card card-cascade narrower mt-5">
             <div className="gradient-card-header narrower py-4 d-flex justify-content-center align-items-center">
-
-<h4 className="white-text font-weight-bold text-uppercase">World Cup Fifa 2018</h4>
-
-</div>
+            <h4 className="white-text font-weight-bold text-uppercase">World Cup Fifa 2018</h4>
+        </div>
             <div className="d-flex font-weight-bold justify-content-center align-items-center">{this.props.tabledata.name}</div>
             <table className="table">
                 <thead>
