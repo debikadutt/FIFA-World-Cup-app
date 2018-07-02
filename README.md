@@ -22,6 +22,7 @@ npm start
 From the browser navigate to http://localhost:3000/ to see the app in action.
 
 # Screenshot: 
+![Home page](https://github.com/debikadutt/fifa-standings-app1/blob/master/src/fifa-2018.JPG)
 
 # Built With
 •	Visual Studio Code
