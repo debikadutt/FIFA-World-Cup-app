@@ -14,6 +14,10 @@ Below is the list of libraries to be installed.
 Please install the following for complete setup of the dev environment.
 1.	Install React: 
 Ref: https://github.com/facebook/create-react-app
+2.  Install Redux:
+Ref: https://www.npmjs.com/package/redux
+3.  Install React Redux:
+Ref: https://www.npmjs.com/package/react-redux
 
 # Running the app
 Start by navigating to the current project folder 'fifa-standings-app'
