@@ -9,6 +9,7 @@ Below is the list of libraries to be installed.
 2.	Node >= 6
 3.  npm >= 3.10.10
 4.  Redux
+5.  Bootstrap CSS
 
 # Installing
 Please install the following for complete setup of the dev environment.
