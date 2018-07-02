@@ -1,5 +1,5 @@
 # FIFA World Cup 2018 standings - app
-A web application to view the current standings of the FIFA World Cup 2018 games. The app paginates over all the groups displaying the relevant information for each team under 8 groups.
+A web application to view the current standings of the FIFA World Cup 2018 games. The app paginates over all the groups displaying the relevant information for each team under 8 groups. The data is fetched from the api : https://github.com/openfootball/world-cup.json to display data dynamically. Also, applied Bootstrap CSS styles to the app for styling the UI.
 
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
